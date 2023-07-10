@@ -4,3 +4,4 @@
 # Folders to ignore
 .ipynb_checkpoints/
 data/
+src/__pycache__/
